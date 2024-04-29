@@ -4,3 +4,4 @@ Giraffe
 Elephant
 Tiger
 Frog
+Koala
