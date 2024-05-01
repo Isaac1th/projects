@@ -1,0 +1,8 @@
+ All living organisms can be placed in one of six different animal kingdom classifications. The characteristics of each animal kingdom are:
+
+Animal – A kingdom of complex multi-celled organisms that do not produce their own food. This kingdom contains all living and extinct animals. Examples include elephants, whales, and humans.
+Plants – Complex and multi-cellular autotrophic organisms, meaning they produce their own food through photosynthesis. Examples include trees, flowers, and grass.
+Fungi – Multi-celled organisms that do not produce their own food, unlike plants. Examples include molds, mushrooms, and yeast.
+Protista – Single-celled organisms with more complexity than either eubacteria or archaebacteria. Examples include algae and amoebas
+Eubacteria – Single-celled organisms found in everything from yogurt to your intestines. This kingdom contains all bacteria in the world not considered archaebacteria.
+Archaebacteria – The oldest known living organisms. Single-celled and found in hostile and extremely hot areas like thermal vents or hot springs
