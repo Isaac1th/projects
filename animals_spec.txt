@@ -1,0 +1,8 @@
+1. Domain: There are three domains: Archaea, Bacteria and Eukarya. Animals belong to the latter group.
+2. Kingdom: There are five kingdoms: animalia, fungi, monera, plantae and protista. Every and any animal belongs to the animalia kingdom, including marine life, snakes and lizards.
+3. Phylum: There are dozens of other animal phyla that we don't have listed here, but most animals fall within a handful of categories, including arthopoda (millipedes, spiders and crayfish), cnidaria (corals, jellyfish and hydras), chordata (humans and dogs), mollusca (slugs, snails and chitons), nematoda (threadworms, hookworms, and whipworms) and porifera (sponges and other invertebrate animals).
+4. Class: Each of the animal phyla divides into smaller groups. For example, the phylum chordata, which encompasses all vertebrates, has a few different classes like amphibians, birds, fish, reptiles, and mammals.
+5. Order: If you look at the class mammalia, you will find several orders, such as carnivora, primates and rodentia.
+6. Family: Within carnivora, or animals that share eating meat in common, there are 13 distinct families, according to Animal Diversity Web. These include Ursidae (bears), Felidae (cats) and Canidae (dogs).
+7. Genus: Within genus, there are even smaller categories. For example, within the Ursidae family, there are five genera: Ailuropoda (giant panda), Helarctos (sun bear), Melursus (sloth bear), Tremarctos (spectacled bear) and Ursus (black bear, brown bear and polar bear)
+8. Species: Within the Ursus genus, there are four species, identified through their scientific names: Ursus americanus (American black bear), Ursus arctos (brown bear), Ursus maritimus (polar bear) and Ursus thibetanus (Asiatic black bear).
